@@ -12,7 +12,7 @@ public class ProvaQ7 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
+    
       int numerão;
         numerão = Integer.parseInt(JOptionPane.showInputDialog("Informe o valor do numero: "));
 
